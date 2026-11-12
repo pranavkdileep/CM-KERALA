@@ -1,0 +1,27 @@
+{
+  "name": "cm-kerala-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "REST API for the CM Kerala grievance portal (recruitment prototype)",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env --watch src/server.js",
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "seed": "node --env-file-if-exists=.env src/scripts/seed.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=22 <27"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.4",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.1",
+    "multer": "^2.5.0",
+    "zod": "^4.6.7"
+  }
+}
