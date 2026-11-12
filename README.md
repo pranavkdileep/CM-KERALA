@@ -11,6 +11,10 @@ A working grievance redressal system: citizens submit and track grievances, the 
 | Hosted application | [_cm.pranavkd.dev_](https://cm.pranavkd.dev/) |
 | Documentation | [DOCUMENTATION/](DOCUMENTATION/) |
 
+demo video
+[Screencast_20261112_211132.webm](https://github.com/user-attachments/assets/81838a6d-e337-4593-94dc-6ce992ae0288)
+
+
 ## Demo accounts
 
 All use the password **`Demo@12345`**. These are test accounts with fictional data.
