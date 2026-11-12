@@ -8,7 +8,7 @@ A working grievance redressal system: citizens submit and track grievances, the 
 
 | | |
 | --- | --- |
-| Hosted application | [_add the deployed URL here_](https://cm.pranavkd.dev/) |
+| Hosted application | [_cm.pranavkd.dev_](https://cm.pranavkd.dev/) |
 | Documentation | [DOCUMENTATION/](DOCUMENTATION/) |
 
 ## Demo accounts
